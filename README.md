@@ -78,3 +78,9 @@ The dashboard is structured into logical zones to optimize readability and user 
 * Presence Stability: The workforce maintained a robust average presence rate of 91.83%, with Monday and Tuesday consistently showing the highest overall engagement.
 * Sickness Trends: While the overall sick leave rate is low (1.20%), the integrated trendline reveals a subtle upward trajectory moving into June, signaling a potential period for management to monitor capacity risks.
 * Remote Work Behavior: Work-from-home utilization remains stable at 10.00%, peaking visibly toward the end of the work week (Friday hitting an average of 13.01%), indicating a team preference for hybrid weekend transitions.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1277" height="719" alt="May" src="https://github.com/user-attachments/assets/f320e82d-95d9-4195-8305-55256457a936" />
+<img width="1282" height="723" alt="April" src="https://github.com/user-attachments/assets/78bc89e8-1e64-4fa0-b8c1-7ac4a350edca" />
+<img width="1283" height="714" alt="June" src="https://github.com/user-attachments/assets/86413120-143b-4356-874f-6a91c9f6a122" />
